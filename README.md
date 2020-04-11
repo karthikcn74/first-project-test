@@ -1,2 +1,2 @@
-# first-project-test
-first application test
+#myapp
+myapp
